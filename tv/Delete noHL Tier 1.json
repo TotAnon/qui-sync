@@ -37,7 +37,7 @@
                   {
                     "field": "COMPLETION_ON",
                     "operator": "GREATER_THAN",
-                    "value": "1836000"
+                    "value": "1843200"
                   },
                   {
                     "field": "LAST_ACTIVITY",
